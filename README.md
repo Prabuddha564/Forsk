@@ -1,2 +1,9 @@
 # Forsk
-Forsk Assignments and Classworks and projects
+Forsk Assignments, Classworks and Projects.
+
+Forsk Coding School - Course: Data Analytics
+Total Lessons : 24
+Mini Tasks :
+Guided Projects:
+
+Main Address Person : Yogendra Singh (Forsklabs)
